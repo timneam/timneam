@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Timothy! 👋
 
 ![Activitiy](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timneam&theme=tokyonight)
 
