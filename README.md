@@ -4,8 +4,8 @@
 
 <table border="0">
  <tr>
-    <td>![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timneam&theme=nightowl)</td>
-     <td>![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timneam&theme=nightowl)</td>
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timneam&theme=nightowl)
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timneam&theme=nightowl)
  </tr>
 </table>
 
