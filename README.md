@@ -2,16 +2,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timneam&theme=nightowl)
 
-<table border="0">
- <tr>
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timneam&theme=nightowl)
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timneam&theme=nightowl)
- </tr>
-</table>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timneam&theme=nightowl)
 
-
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timneam&theme=nightowl)
 
 
 
