@@ -61,7 +61,6 @@
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/timothyneam/)
-- 📧 Email: `your.email@example.com` *(replace with your actual email)*
 
 <!--
 **timneam/timneam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
