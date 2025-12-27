@@ -60,7 +60,7 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/timothyneam/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/timothy-neam/)
 
 <!--
 **timneam/timneam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
