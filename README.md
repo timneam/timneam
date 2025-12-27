@@ -49,15 +49,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=timneam&show_icons=true&theme=nightowl" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timneam&layout=compact&theme=nightowl" height="150"/>
-</p>
-
----
-
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/timothy-neam/)
