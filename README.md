@@ -1,10 +1,8 @@
-### Hi there, I'm Timothy! 👋
+### Hi there, I'm Timothy! 👋 
+I'm a software engineer with experience in Java, Spring Boot, and React, 
+interested in building scalable backend systems and full-stack applications.
 
 [🌐 My Portfolio](https://timneam-portfolio.vercel.app/)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timneam&theme=nightowl)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=timneam&theme=nightowl) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timneam&theme=nightowl)
 
 ---
 
